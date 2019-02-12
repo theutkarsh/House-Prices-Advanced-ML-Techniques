@@ -4,7 +4,7 @@ The code is used to predict House_Prices with 79 explanatory variables describin
 ## Prerequisites
 scikit learn,numpy,pa
 
-##File descriptions
+##F ile descriptions
 
 ### all/
 train.csv - the training set
