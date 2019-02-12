@@ -6,6 +6,11 @@ scikit learn,numpy,pandas, keras, Xgboost
 
 ## File descriptions
 
+* Keras tenserflow for house pricing.ipynb - Used Keras Neural Net to train model.
+* Xgboost for House Prediction.ipynb- Used Xgboost algorithm to train model.
+* ensemble house pricing.ipynb - Used ensemble of xgboost and lasso classifier to predict labels.
+* lasso for house pricing.ipynb - Lasso regress used to predict labels.
+
 ### all/
 train.csv - the training set
 test.csv - the test set
@@ -14,11 +19,6 @@ sample_submission.csv - a benchmark submission from a linear regression on year 
 
 ### Submission/
 Predicted labels on test set based on differnt models.
-
- Keras tenserflow for house pricing.ipynb - Used Keras Neural Net to train model.
- Xgboost for House Prediction.ipynb- Used Xgboost algorithm to train model.
- ensemble house pricing.ipynb - Used ensemble of xgboost and lasso classifier to predict labels.
- lasso for house pricing.ipynb - Lasso regress used to predict labels.
 
 ## Results
 
