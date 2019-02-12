@@ -22,10 +22,10 @@ Predicted labels on test set based on differnt models.
 
 ## Results
 
-ensemb_xglas.csv -ensemble model- 0.11834
-keras1.csv- tenserflow -2.59022
-lasso.csv -Used lasso model -0.11919
-xg.csv - Xgboost aalgorithm - 0.12370
+* ensemb_xglas.csv -ensemble model- 0.11834
+* keras1.csv- tenserflow -2.59022
+* lasso.csv -Used lasso model -0.11919
+* xg.csv - Xgboost aalgorithm - 0.12370
 
 ## Acknowledgments
 
