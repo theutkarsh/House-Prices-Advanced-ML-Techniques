@@ -1,7 +1,7 @@
 # House-Prices-Advanced-ML-Techniques 
 
 The code is used to predict House_Prices with 79 explanatory variables describing (almost) every aspect of residential home. 
-## Setup
+## Setup library
 scikit learn,numpy,pandas, keras, Xgboost
 
 ## File descriptions
